@@ -6,7 +6,7 @@ Store More, Stress Less – Your Space, Your Way!
 
 ## Usage
 
-To use the Midnight theme:
+To use theme:
 
 1. Add the following to your site's `_config.yml`:
 
