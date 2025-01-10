@@ -1,3 +1,4 @@
+## Usage
 To use theme:
 
 1. Add the following to your site's `_config.yml`:
