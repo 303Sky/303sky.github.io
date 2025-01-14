@@ -1,7 +1,4 @@
-<html> <!--This is our HTML main tag-->
-  <head> <!--This is our head tag where we put our title and script and all
-infos relative to our page.-->
-  <title><h1>Main Street Storage</h1></title>
+  <h1>Main Street Storage</h1>
 </head>
 <body> <!--This is where all our content will go-->
  <br><a href="https://github.com/303Sky">Github</a>
