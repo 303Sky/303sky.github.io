@@ -1,10 +1,10 @@
 <html> <!--This is our HTML main tag-->
   <head> <!--This is our head tag where we put our title and script and all
 infos relative to our page.-->
-  <title>My Page Title</title>
+  <title><h1>Main Street Storage</h1></title>
 </head>
 <body> <!--This is where all our content will go-->
-<h1>Main Street Storage</h1> <br><a href="https://github.com/303Sky">Github</a>
+ <br><a href="https://github.com/303Sky">Github</a>
 <br><h2>Currently under construction!</h2>
 <p>This website will <b>help people</b> learn more about our self storage business.</p>
 <input type="email" placeholder="Your email">
