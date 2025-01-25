@@ -20,7 +20,7 @@ infos relative to our page.-->
       <br><br><p class="text">This website will <b>help people</b> learn more about our self storage business.</p>
       <input class="form" type="email" placeholder="Your email">
       <input type="submit">
-      <br><p class="linktext" style="margin-bottom": 0px;><b>Follow me on GitHub!</b></p><a class="link" href="https://github.com/303Sky"><img class="github" src="images/GitHub2.jpg" alt="" style="width: 150px; height: 75px; margin-top: 0px;"></a>
+      <br><p class="linktext" style="margin-bottom": 0px;><b>Follow me on GitHub!</b></p><a class="link" href="https://github.com/303Sky"><img class="github" src="images/GitHub2.jpg" alt="></a>
     </div>
     <div class="sidebar">
       <p></p>
