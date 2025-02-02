@@ -57,7 +57,6 @@
 
 
   <link href="https://fonts.googleapis.com/css?family=Roboto:400,700"
-rel="stylesheet">
-</body>
+<link rel="stylesheet" href="style.css"></body>
 
 </html>
