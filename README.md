@@ -37,7 +37,8 @@
       <li><a href="contact.html">Contact</a></li>
       <li><a href="additionalinfo.html">Additional Info</a></li>
     </ul>
-    <link rel="stylesheet" href="style.css"></header>
+    <link rel="stylesheet" href="css/style.css">
+</header>
 <section id="hero">
   <div class="container">
     <div class="hero-text">
@@ -56,5 +57,7 @@
 
 
   <link href="https://fonts.googleapis.com/css?family=Roboto:400,700"
+rel="stylesheet">
+</body>
 
 </html>
