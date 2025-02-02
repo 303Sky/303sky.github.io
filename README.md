@@ -1,34 +1,63 @@
-<html> <!--This is our HTML main tag-->
-  <head> <!--This is our head tag where we put our title and script and all
-infos relative to our page.-->
+<!doctype html>
+<html class="no-js" lang="">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Main Street Storage</title>
+  <link rel="stylesheet" href="css/style.css">
+  <meta name="description" content="self storage">
+
+  <meta property="og:title" content="">
+  <meta property="og:type" content="">
+  <meta property="og:url" content="">
+  <meta property="og:image" content="">
+  <meta property="og:image:alt" content="">
+
+  <link rel="icon" href="/favicon.ico" sizes="any">
+  <link rel="icon" href="/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icon.png">
+
+  <link rel="manifest" href="site.webmanifest">
+  <meta name="theme-color" content="#fafafa">
 </head>
+
 <body>
+
+  <!-- Add your site or application content here -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+  <script src="js/app.js"></script>
+<header>
+    <ul class="main-nav">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About Us</a></li>
+      <li><a href="services.html">Services</a></li>
+      <li><a href="contact.html">Contact</a></li>
+      <li><a href="additionalinfo.html">Additional Info</a></li>
+    </ul>
+    <link rel="stylesheet" href="css/style.css">
+</header>
+<section id="hero">
   <div class="container">
-    <div class ="content">
-      <h1 id="Title">Main Street Storage</h1>
-            <nav class="navigation">
-              <br><a href="index.html">Home</a>
-              <br><a href="about.html">About Us</a>
-              <br><a href="services.html">Services</a>
-              <br><a href="contact.html">Contact</a>
-              <br><a href="additionalinfo.html">Additional Info</a>
-            </nav>
-      <h2>Simple & Fast Online Rentals!</h2>
-      <img class="mainbanner" src="images/mainbanner.png" alt="">
-      <div class="nohassle">Straight to Your Unit, No Hassle!</div>
-      <br><br><p class="text">This website will <b>help people</b> learn more about our self storage business.</p>
-      <input class="form" type="email" placeholder="Your email">
-      <input type="submit">
-      <br><p class="linktext" style="margin-bottom": 0px;><b>Follow me on GitHub!</b></p><a class="link" href="https://github.com/303Sky"><img class="github" src="images/GitHub2.jpg" alt=""></a>
+    <div class="hero-text">
+      <h1 class="hero-title">Main Street Storage</h1>
+      <p class="hero-tag">Simple & Fast Online Rentals!</p>
+      <a href="services.html" class="btn-primary">Book now</a>
     </div>
-    <div class="sidebar">
-      <p></p>
-    </div>
-      <div class="footer">
-        <p></p>
-      </div>
-    </div>
- </body>
- </html>
-<link rel="stylesheet" href="styles.css">
+  </div>
+</section>
+
+<div class="github">
+  <a class="link" href="https://github.com/303Sky">
+    <img class="github" src="img/github2.jpg" alt="" style="width: 150px; height: 75px;">
+  </a>
+</div>
+
+
+  <link href="https://fonts.googleapis.com/css?family=Roboto:400,700"
+rel="stylesheet">
+</body>
+
+</html>
