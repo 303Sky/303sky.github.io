@@ -37,7 +37,7 @@
       <li><a href="contact.html">Contact</a></li>
       <li><a href="additionalinfo.html">Additional Info</a></li>
     </ul>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="style.css">
 </header>
 <section id="hero">
   <div class="container">
