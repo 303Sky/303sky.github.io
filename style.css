@@ -169,7 +169,7 @@ header .logo {
   height: 600px;
   background-image:
   linear-gradient(to bottom, rgba(0,0,0,0.3) 0%,rgba(0,0,0,0.4) 100%),
-  url("../img/mainbanner.png");
+  url("img/mainbanner.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
