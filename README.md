@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Main Street Storage</title>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="css/style.css">
   <meta name="description" content="self storage">
 
   <meta property="og:title" content="">
@@ -29,7 +29,17 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
   <script src="js/app.js"></script>
+
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>jQuery Hamburger Menu</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script> <!-- Add jQuery -->
+  </head>
 <header>
+  <button class="menu-button">☰</button>
+  <nav class="nav-menu">
     <ul class="main-nav">
       <li><a href="index.html">Home</a></li>
       <li><a href="about.html">About Us</a></li>
@@ -37,8 +47,10 @@
       <li><a href="contact.html">Contact</a></li>
       <li><a href="additionalinfo.html">Additional Info</a></li>
     </ul>
-    <link rel="stylesheet" href="style.css">
+  </nav>
+    <link rel="stylesheet" href="css/style.css">
 </header>
+         <script src="app.js"></script>
 <section id="hero">
   <div class="container">
     <div class="hero-text">
@@ -58,6 +70,6 @@
 
   <link href="https://fonts.googleapis.com/css?family=Roboto:400,700"
 rel="stylesheet">
+<script src="js/app.js"></script>
 </body>
-
 </html>
