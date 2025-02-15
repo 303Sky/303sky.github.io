@@ -313,6 +313,38 @@ body {
 .tipstext{
   color: white;
 }
+.btn-contact{
+  text-decoration: none;
+  display: inline-block;
+  font-family: 'built_titling', Helvetica, sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  letter-spacing: 3px;
+  background: #BF0000;
+  color: white;
+  padding: 12px 22px;
+  border: none;
+  outline: none;
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+.contactform {
+    color: white;
+  }
+  .successMessage {
+      display: none;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      width: 200px;
+      padding: 10px;
+      background: white;
+      color: green;
+      font-weight: bold;
+      border: 2px solid green;
+      text-align: center;
+      z-index: 1000; 
+  }
 /* Additional Info */
 
 
