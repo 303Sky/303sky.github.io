@@ -16,8 +16,22 @@
     <div class="hero-text">
       <h1 class="hero-title">Contact Us</h1>
       <img class="contactusbanner" src="img/contactus.png" alt="">
-      <br><p class="hero-tag">Have additional questions?</p>
-      <p class="contactinfo"><b>Phone</b>: (800)-XXX-XXXX <br><br><b>Email</b>: mainstreetstorage@mainstreetstorage.com </p>
+  <form class="contactform">
+        <div>
+          <b>Name</b> <br />
+          <input type="text" name="firstname" required />
+        </div>
+        <div>
+          <b>Email</b> <br />
+          <input type="text" name="email" required />
+        </div>
+        <div>
+          <label for="message"><b>Message</b></label><br />
+          <textarea id="message" name="message" rows="5" cols="20" required></textarea>
+        </div>
+        <button type="submit" class="btn-contact">Submit</button>
+      </form>
+      <p class="successMessage" style="display: none; color: green; font-weight: bold;">Successfully submitted!</p>
     </div>
   </div>
 </section>
