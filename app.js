@@ -18,3 +18,16 @@ $(document).ready(function () {
         event.stopPropagation();
     });
 });
+document.addEventListener("DOMContentLoaded", function () {
+    const form = document.querySelector(".contactform"); // Correct selector
+    const successMessage = document.querySelector(".successMessage"); // Correct selector
+
+    form.addEventListener("submit", function (event) {
+        event.preventDefault();
+
+        successMessage.style.display = "block";
+        form.reset();
+
+    });
+});
+
