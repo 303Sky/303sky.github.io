@@ -284,12 +284,12 @@ body {
 .sitefooter {
     background-color: white
     color: black
-    text-align: center;
+    text-align: right;
     padding: 15px;
     font-size: 10px;
     font-family: 'Roboto', sans-serif;
     position: fixed;
-    bottom: 0;
+    bottom: -1;
     right: 0;
 }
 
