@@ -286,8 +286,11 @@ body {
     color: black
     text-align: center;
     padding: 15px;
-    font-size: 14px;
+    font-size: 10px;
     font-family: 'Roboto', sans-serif;
+    position: fixed;
+    bottom: 0;
+    right: 0;
 }
 
 /* Make sure the menu shows when toggled */
